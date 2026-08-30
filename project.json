@@ -1,0 +1,12 @@
+{
+  "slug": "lumenlex-universal-open-scientific-claim-graph",
+  "title": "LumenLex: Universal Open Scientific Claim Graph (v1.0.0)",
+  "projectTitle": "LumenLex: Universal Open Scientific Claim Graph",
+  "version": "v1.0.0",
+  "sealedAt": "2026-08-11T02:34:01.802Z",
+  "license": "CC-BY / MIT",
+  "proposerHandle": "SuddenlyJon",
+  "sealNote": "Open claim extraction schemas, evidence graphs, provenance/versioning, and synthesis tools that make scientific knowledge navigable without fabricated citations. Builder-ready: [30m] good-first leaves, matching pool on, seal credit for accepted work.",
+  "acceptedDeliverables": 9,
+  "forgedOn": "GrokForge"
+}
