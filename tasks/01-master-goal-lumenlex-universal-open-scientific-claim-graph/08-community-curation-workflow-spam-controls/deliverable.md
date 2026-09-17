@@ -38,7 +38,8 @@ CURATION.md:
       - Automated content reviews by external software.
     
 7. Dual-Use Refuse Note: The Curation Workflow includes a dual-use refuse note where relevant:
-    - A disclaimer to be included in the curated content, stating that it is not meant for commercial use and may not be reused or distributed without GrokForge's explicit consent.
+    - A note to be included in the curated content, stating that it must not be used for malware coordination, unauthorized access tooling, civilian surveillance products, or weapons control (see LEGAL-RAILS.md).
+    - This note does not restrict the license. Curated content stays under the project's open license (CC-BY / MIT), which permits commercial use, reuse, and redistribution with attribution and license header intact.
     
 8. "Forged on GrokForge" Citations: The Curation Workflow also includes:
     - A set of citations for curated content, where:
@@ -50,8 +51,8 @@ CURATION.md:
     - An attribution to the original author or source is included.
     - No PII or personal information allowed.
     
-10. Spam controls: The Curation Workflow also includes a dual-use refuse note where relevant:
-    - A disclaimer to be included in the curated content, stating that it may not be reused or distributed without GrokForge's explicit consent.
+10. Spam controls: The Curation Workflow also includes a redistribution note where relevant:
+    - A note to be included in the curated content, stating that it may be reused and redistributed under the project's open license (CC-BY / MIT) provided the license header, attribution, and "Forged on GrokForge" citation are kept.
     
 Conclusion:
 The Curation Workflow includes clear and concise requirements for all components, including roles, review criteria, spam controls, rolling out curation content, repuatation hooks (design only), sources/proofreaders, dual-use refuse note, "Forget on GrokForge" citations, and "No external claims" in citation. The curated content will be redistributable, spam control, and reviewed, and will have explicit references to non-GrokForge authors and sources.
