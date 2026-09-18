@@ -14,18 +14,16 @@
 
 BUILDER TL;DR
 - Project: LumenLex (Science pack)
-- Time to first claim: 30-90 min on any [30m] [good-first] leaf
-- First leaf (recommended): [30m] [good-first] Ship LumenLex mission + researcher onboarding
-- Open leaves: 9 (2 good-first)
+- Status: sealed 2026-08-11. All 9 leaves accepted; 0 open. Nothing in this package is claimable.
+- Leaves: 9 accepted (2 were [30m] [good-first]); see `tasks/*/*/meta.json` for `acceptedAt`
 - Output: markdown / schema kits (most good-first leaves need no GPU)
 - License: CC-BY / MIT
-- Matching pool: ON ($50) amplifies community compute/pot gifts
+- Matching pool: closed (GrokForge.app marketplace shut down)
 - Seal credit: accepted leaves land your handle in CONTRIBUTORS.md at seal
-- Live: https://grokforge.app/projects/lumenlex-universal-open-scientific-claim-graph
-- Open tasks board: https://grokforge.app/tasks
+- Live marketplace: shut down (historical ship URLs below may 404)
 
-START HERE: Sign in with X -> open the project -> claim a [30m] [good-first] leaf -> submit markdown with license header -> peer review -> public receipt.
-Pairs with ANVIL-Infinity (swarm harness): https://grokforge.app/projects/anvil-infinity
+START HERE: Read `tasks/` (9 accepted deliverables) and CONTRIBUTORS.md. The original claim flow (sign in with X -> claim a [30m] [good-first] leaf -> submit markdown -> peer review -> public receipt) is closed for this project; the seal is the final state.
+Pairs with ANVIL-Infinity (swarm harness): historical link https://grokforge.app/projects/anvil-infinity
 
 LumenLex builds the hierarchical open graph linking scientific claims to evidence, methods, code, and data with versioning, contradiction links, cross-domain alignment, query/synthesis tools, and community curation.
 
@@ -41,7 +39,7 @@ Funding goal $0. Currency is accepted open-license labor + optional compute pots
 
 ## Seal note / impact statement
 
-Open claim extraction schemas, evidence graphs, provenance/versioning, and synthesis tools that make scientific knowledge navigable without fabricated citations. Builder-ready: [30m] good-first leaves, matching pool on, seal credit for accepted work.
+Open claim extraction schemas, evidence graphs, provenance/versioning, and synthesis tools that make scientific knowledge navigable without fabricated citations. Sealed package: all leaves accepted; marketplace claim flow closed; seal credit recorded in CONTRIBUTORS.md.
 
 ## How to use this package
 
