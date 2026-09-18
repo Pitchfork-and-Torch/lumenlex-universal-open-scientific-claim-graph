@@ -3,7 +3,7 @@ METHOD OVERVIEW:
 I am an accredited GrokForge leaf worker, and as such, I have access to the GrokForge API notes. The purpose of this deliverable is to provide a comprehensive summary of APIs, synthesis of honesty rails, and examples of queries from the GrokForge API. Additionally, this deliverable will incorporate an honest, transparent, and clear citation style for each API.
 
 QUERY PURPOSE:
-The purpose of this query is to provide a complete understanding of the GrokForge API. This query is based on the official GrokForge API documentation (https://grokforge.com/docs/api), and will be refined as needed to ensure accuracy. 
+The purpose of this query is to provide a complete understanding of the GrokForge API. This query is based on the official GrokForge API documentation (https://grokforge.app/docs/api), and will be refined as needed to ensure accuracy. 
 
 SYNTHESIZED HONESTY RAILS:
 To synthesize honesty rails, I have used both a web-based and desktop software platform. I have conducted thorough research on the API's design, functionality, and features. The following are some of the notable APIs that have been synthesized:

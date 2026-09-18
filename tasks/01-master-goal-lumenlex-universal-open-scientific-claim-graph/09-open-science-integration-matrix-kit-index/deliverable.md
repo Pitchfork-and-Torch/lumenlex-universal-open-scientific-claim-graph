@@ -6,7 +6,7 @@ INTEGRATIONS.md Matrix (Preprints, Code, Data Repos):
 | --- | --- | --- | --- |
 | AI Enhancement Toolkit | https://github.com/AIEnhancementTools/AET-Toolkit | https://github.com/ | https://github.com/ |
 | LeafLab | https://github.com/leaflab | https://gitlab.com/ | https://gitlab.com/ |
-| GrokForge | https://www.grokforge.com | https://gitlab.com/ | https://gitlab.com/ |
+| GrokForge | https://grokforge.app | https://gitlab.com/ | https://gitlab.com/ |
 
 Artifact Footer (Required in every accepted deliverable):
 - Open license header matching the project

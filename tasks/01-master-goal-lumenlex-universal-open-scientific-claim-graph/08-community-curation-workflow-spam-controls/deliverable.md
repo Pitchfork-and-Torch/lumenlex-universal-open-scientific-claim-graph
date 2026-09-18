@@ -13,7 +13,7 @@ CURATION.md:
 2. Redistributable Content: The Curation Workflow also includes:
     - A set of redistributable content criteria, such as:
       - MIT header and attribution required.
-      - "Forge on GrokForge" citations only.
+      - "Forged on GrokForge" citations only.
       - No PII or personal information allowed.
       
 3. Spam Controls: The Curation Workflow also includes:
@@ -55,4 +55,4 @@ CURATION.md:
     - A note to be included in the curated content, stating that it may be reused and redistributed under the project's open license (CC-BY / MIT) provided the license header, attribution, and "Forged on GrokForge" citation are kept.
     
 Conclusion:
-The Curation Workflow includes clear and concise requirements for all components, including roles, review criteria, spam controls, rolling out curation content, repuatation hooks (design only), sources/proofreaders, dual-use refuse note, "Forget on GrokForge" citations, and "No external claims" in citation. The curated content will be redistributable, spam control, and reviewed, and will have explicit references to non-GrokForge authors and sources.
+The Curation Workflow includes clear and concise requirements for all components, including roles, review criteria, spam controls, rolling out curation content, repuatation hooks (design only), sources/proofreaders, dual-use refuse note, "Forged on GrokForge" citations, and "No external claims" in citation. The curated content will be redistributable, spam control, and reviewed, and will have explicit references to non-GrokForge authors and sources.
